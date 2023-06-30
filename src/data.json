@@ -1,0 +1,38 @@
+ [{
+    "id": 1,
+    "name":"Shopping Cart",
+    "image":"./images/image1.jpg",
+    "desc":"Now you can buy a shopping cart gift voucher.",
+    "price":29.99
+
+
+    },
+    {
+        "id": 2,
+        "name":"IPhone",
+        "image":"./images/image2.jpg",
+        "desc":"One of apple's favorites product's is the iphone which can be yours",
+        "price":319.99
+    
+    
+        },
+        {
+            "id": 3,
+            "name":"Monitor",
+            "image":"./images/image3.jpg",
+            "desc":"Buy the latest pc monitor for home use or for entertainment.",
+            "price":119.99
+        
+        
+            },
+        {
+            "id": 4,
+            "name":"New IPhone",
+            "image":"./images/image4.jpg",
+            "desc":"The lastest Iphone with a moden holigram.",
+            "price":412.99
+        
+        
+            }
+        
+]
