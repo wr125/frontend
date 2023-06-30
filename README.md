@@ -1,3 +1,4 @@
+#javascript frontend shopping cart menu (card).
 #download files
 1. npm install (to install the required node_modules).
 2. npm start
